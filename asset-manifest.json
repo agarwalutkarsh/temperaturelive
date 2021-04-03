@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/temperaturelive/static/css/main.0f723d36.chunk.css",
+    "main.js": "/temperaturelive/static/js/main.9cd24d2a.chunk.js",
+    "main.js.map": "/temperaturelive/static/js/main.9cd24d2a.chunk.js.map",
+    "runtime-main.js": "/temperaturelive/static/js/runtime-main.fc381c0a.js",
+    "runtime-main.js.map": "/temperaturelive/static/js/runtime-main.fc381c0a.js.map",
+    "static/js/2.5481b17d.chunk.js": "/temperaturelive/static/js/2.5481b17d.chunk.js",
+    "static/js/2.5481b17d.chunk.js.map": "/temperaturelive/static/js/2.5481b17d.chunk.js.map",
+    "static/js/3.b76c3008.chunk.js": "/temperaturelive/static/js/3.b76c3008.chunk.js",
+    "static/js/3.b76c3008.chunk.js.map": "/temperaturelive/static/js/3.b76c3008.chunk.js.map",
+    "index.html": "/temperaturelive/index.html",
+    "static/css/main.0f723d36.chunk.css.map": "/temperaturelive/static/css/main.0f723d36.chunk.css.map",
+    "static/js/2.5481b17d.chunk.js.LICENSE.txt": "/temperaturelive/static/js/2.5481b17d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fc381c0a.js",
+    "static/js/2.5481b17d.chunk.js",
+    "static/css/main.0f723d36.chunk.css",
+    "static/js/main.9cd24d2a.chunk.js"
+  ]
+}
